@@ -3,6 +3,6 @@
 number = int(input("Enter a number to see its multiplication table:"))
 
 
-for num in range(1,10):
-    result = number * num
-    print(number,"*",num," = ", result)
+for i in range (1,11)
+    result = number * i
+    print(number,"*",i," = ", result)
